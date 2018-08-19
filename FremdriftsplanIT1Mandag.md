@@ -1,6 +1,6 @@
 # Fremdriftsplan IT1 - Mandag
 
-| Uke | Tema | Stikkord | Kapittel |
+| Uke | Dato | Tema | Stikkord | Kapittel |
 |:---:|:----|:-----|:-----|
 | 34 |20. aug| Velkommen til IT1 og oppsett av programmer || 1.1 - 1.2|
 | 35 |27. aug| Lage nettside med HTML |Tekst, bilder, lyd og video| 1.3 - 1.4 |
