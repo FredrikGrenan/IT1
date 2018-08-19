@@ -1,14 +1,14 @@
 # Fremdriftsplan IT1 - Mandag
 
 | Uke | Dato | Tema | Stikkord | Kapittel |
-|:---:|:----|:-----|:-----|
+|:---:|:----|:-----|:-----|:----|
 | 34 |20. aug| Velkommen til IT1 og oppsett av programmer || 1.1 - 1.2|
 | 35 |27. aug| Lage nettside med HTML |Tekst, bilder, lyd og video| 1.3 - 1.4 |
 | 36 |03. sep| Lage nettside med HTML |Lenker, tabeller og skjema | 1.5 - 1.7 |
 | 37 |10. sep| CSS endrer utseende til nettsiden| CSS | 2.1 |
 | 38 |17. sep| CSS endrer utseende til nettsiden|Style-element, utseende til lyd og bilder|2.2 - 2.4|
 | 39 |24. sep| *Prøve i kap. 1 og 2.1-2.4.* CSS endrer utseende til nettsiden| Id og klasse |2.5|
-| 40 |01. okt| Høstferie||
+| 40 |01. okt| Høstferie|||
 | 41 |08. okt| CSS endrer utseende til nettsiden|Pseudoselektor og pseudoklasser|2.6 - 2.7|
 | 42 |15. okt| Planlegging og utvikling av nettsteder|Fra skisse til nettside|4.1|
 | 43 |22. okt| Planlegging og utvikling av nettsteder|Bakgrunnsbilder med CSS-kode|4.2|
@@ -35,16 +35,14 @@
 | 13 |25. mar| Animasjon med CSS||9.1 - 9.2|
 | 14 |01. apr| Animasjon med CSS||9.4|
 | 15 |08. apr| Animasjon med CSS||9.4|
-| 16 |15. apr| Påske||
-| 17 |22. apr| Påske||
-| 18 |29. apr| Prosjektarbeid||
-| 19 |06. mai| Prosjektarbeid||
-| 20 |13. mai| Trekk til eksamen?||
-| 21 |20. mai| Eksamenstrening||
-| 22 |27. mai| Eksamenstrening||
-| 23 |03. jun| Eksamenstrening||
-| 24 |10. jun| Eksamenstrening||
-| 25 |17. jun| ||
-| 26 |24. jun| Sommerferie||
-| 27 |27. mai| Eksamenstrening - Muntlig||
-| 28 |03. jun| Eksamenstrening - Muntlig||
+| 16 |15. apr| Påske|||
+| 17 |22. apr| Påske|||
+| 18 |29. apr| Prosjektarbeid|||
+| 19 |06. mai| Prosjektarbeid|||
+| 20 |13. mai| Trekk til eksamen?|||
+| 21 |20. mai| Eksamenstrening|||
+| 22 |27. mai| Eksamenstrening|||
+| 23 |03. jun| Eksamenstrening|||
+| 24 |10. jun| Eksamenstrening|||
+| 25 |17. jun| |||
+| 26 |24. jun| Sommerferie||||
