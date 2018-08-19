@@ -13,7 +13,7 @@
 | 42 |15. okt| Planlegging og utvikling av nettsteder|Fra skisse til nettside|4.1|
 | 43 |22. okt| Planlegging og utvikling av nettsteder|Bakgrunnsbilder med CSS-kode|4.2|
 | 44 |29. okt| Planlegging og utvikling av nettsteder|Grid|4.3 - 4.4|
-| 45 |05. okt| Planlegging og utvikling av nettsteder|Innhold tilpasset ulike skjermstørrelser|4.5|
+| 45 |05. nov| Planlegging og utvikling av nettsteder|Innhold tilpasset ulike skjermstørrelser|4.5|
 | 46 |12. nov| Planlegging og utvikling av nettsteder|Flexbox|4.6|
 | 47 |19. nov| Fysiske signaler i datautstyr + Prosjektarbeid||3.1 - 3.3|
 | 48 |26. nov| Fysiske signaler i datautstyr + Prosjektarbeid||3.4 - 3.6|
