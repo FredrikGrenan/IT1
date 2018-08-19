@@ -31,13 +31,13 @@
 | 9  |25. feb| Dynamiske nettsider|Nettbutikk|8.3|
 | 10 |04. mar| Dynamiske nettsider|Nettbutikk|8.3|
 | 11 |11. mar| Dynamiske nettsider|Mediefiler i databsen|8.4|
-| 12 |18. mar | Animasjon med CSS||9.1|
-| 13 |25. mar| Animasjon med CSS||9.1 - 9.2|
-| 14 |01. apr| Animasjon med CSS||9.4|
-| 15 |08. apr| Animasjon med CSS||9.4|
+| 12 |18. mar | Animasjon med CSS|Lage animasjoner med CSS|9.1|
+| 13 |25. mar| Animasjon med CSS|Interaktive animasjoner|9.1 - 9.2|
+| 14 |01. apr| Animasjon med CSS|Egenskaper som kan endres|9.3|
+| 15 |08. apr| Animasjon med CSS|CSS keyframes|9.4|
 | 16 |15. apr| Påske|||
 | 17 |22. apr| Påske|||
-| 18 |29. apr| Prosjektarbeid|||
+| 18 |29. apr| Animasjon med CSS|Stop-motion-animasjon|9.5|
 | 19 |06. mai| Prosjektarbeid|||
 | 20 |13. mai| Trekk til eksamen?|||
 | 21 |20. mai| Eksamenstrening|||
